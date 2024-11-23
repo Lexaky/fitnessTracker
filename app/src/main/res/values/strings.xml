@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FitnessTrackerNoJC</string>
+    <string name="have_account_yet">Уже есть аккаунт?</string>
+    <string name="registrate">Зарегистрироваться</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="name_or_nickname">Имя или никнейм</string>
+    <string name="gender">Пол</string>
+    <string name="continue_but">Продолжить</string>
+    <string name="confidence_politicy">Нажимая на кнопку, вы соглашаетесь с политикой конфидециальности и обработки персональных данных, а также принимаете пользовательское соглашение</string>
+    <string name="registration_text">Регистрация</string>
+    <string name="best_tracker">Пожалуй, лучший фитнес трекер в ДВФУ</string>
+    <string name="created_by_strudents">Созданный студентами</string>
+    <string name="enter_login">Войти</string>
+    <string name="enter_login_im">Вход</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="other">Другое</string>
+</resources>
